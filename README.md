@@ -65,6 +65,9 @@ prediction = np.dot(np.append(1, new_Scaled), theta)
 prediction = prediction.reshape(-1,1)
 pre = scaler.inverse_transform(prediction)
 print(f"Predicted value: (pre)")
+
+print("NAME: TELLA THRISHENDRA")
+print("REG NO: 212223230227")
 ```
 
 ## Output:
@@ -76,7 +79,8 @@ print(f"Predicted value: (pre)")
 ![image](https://github.com/user-attachments/assets/59fa1388-0d37-4c5e-a5e4-2f5d10d109d3)
 
 ## Predicted Value
-![image](https://github.com/user-attachments/assets/7ef530d8-587b-4eb7-8371-27a9621cb5a7)
+![Screenshot 2025-04-28 155228](https://github.com/user-attachments/assets/4a889e2d-751d-4c54-9769-e0e6947cf560)
+
 
 
 ## Result:
